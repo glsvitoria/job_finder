@@ -6,7 +6,9 @@
 ## Um pouco do Projeto:
 
 ➡ Site para encontrar vagas para desenvolvedores ou outras áreas da tecnologia desenvolvido front-end e back-end do programa, no qual utiliza o SQLite3 como banco de dados e o Express para fazer todas as rotas do site.
+  
 ➡ Possui a opção de ver as vagas pela home, fazer uma busca no banco de dados do site, adicionar uma vaga ao site junto com informações como nome da empresa, cargo e salário, e também uma página individual para cada vaga com seus detalhes.
+  
 ➡ Totalmente responsivo para outros dispositivos
 
 ## Conteúdos
@@ -50,9 +52,11 @@
 [<img src="	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />](https://github.com/glsvitoria)
 [<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />](https://github.com/glsvitoria)
 [<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />](https://github.com/glsvitoria)
+  
 [<img src="https://img.shields.io/badge/Handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black" />](https://github.com/glsvitoria)
 [<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />](https://github.com/glsvitoria)
 [<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />](https://github.com/glsvitoria)
+  
 [<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />](https://github.com/glsvitoria)
 [<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />](https://github.com/glsvitoria)
 [<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />](https://github.com/glsvitoria)
