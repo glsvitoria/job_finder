@@ -64,6 +64,7 @@
  - Criação de um banco de dados e suas tabelas (SQLite3)
  - Programação com o Handlebars do Express para interação com o front-end
  - Todo o resto da interação front-end <-> back-end que não tinha ideia de como era feito até então
+ - Como ser feito o deploy de um site com front e back no HerokuApp
 
 ## Autor
 - Linkedin - [Guilherme Vitória](https://www.linkedin.com/in/glsvitoria/)
