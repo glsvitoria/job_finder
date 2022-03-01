@@ -13,7 +13,7 @@
 
 - [Overview](#overview)
   - [Como rodar o projeto](#como-rodar-o-projeto)
-  - [Como utilizar](#como-utilizar-o-projeto)
+  - [Como utilizar](#como-utilizar)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [Processo](#processo)
